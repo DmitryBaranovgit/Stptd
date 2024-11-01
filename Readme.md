@@ -33,10 +33,15 @@ Main: Главный класс, который создает экземпля�
 #### Пример добавленных Javadoc-комментариев
 Для всех классов и методов в проекте были добавленых Javadoc-комментарии. Например:
 Для класса ```Rectangle```:
+
 [Rectangle](https://github.com/DmitryBaranovgit/Maven/blob/main/src/main/java/com/example/project/shapes/Rectangle.java)
+
 Для метода ```calculateArea``` в классе ```Rectangle```:
+
 [MathUtils](https://github.com/DmitryBaranovgit/Maven/blob/main/src/main/java/com/example/project/utils/MathUtils.java)
+
 [Main](https://github.com/DmitryBaranovgit/Maven/blob/main/src/main/java/com/example/project/Main.java)
+
 #### Генерация документации с помощью Javadoc
 Для генерации документации использовалась команда:
 ```javadoc -d docs -sourcepath src -subpackages com.example.project```
@@ -81,6 +86,8 @@ Pydoc и Javadoc обладают разными особенностями и �
 Использованные материалы
 
 [Python Official Documentation](https://docs.python.org/3/)
+
 [Javadoc Tutorial on Oracle](https://docs.oracle.com/en/java/javase/23/javadoc/javadoc-tool.html) 
+
 [GitHub Pages](https://docs.github.com/ru/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
