@@ -7,12 +7,20 @@
 
 ### Часть 1: Python и Pydoc
 #### Описание проекта: Проект разработан на Python и содержит модули для выполнения
-различных операций. Основные модули: ```calculator```, ```models```, ```utilities```.
+различных операций. 
+
+Основные модули: ```calculator```, ```models```, ```utilities```.
+
 [calculator](https://github.com/DmitryBaranovgit/Pydoc/blob/main/src/sample/calculator/basic_operations.py)
+
 [calculator](https://github.com/DmitryBaranovgit/Pydoc/blob/main/src/sample/calculator/advanced_operations.py)
+
 [models](https://github.com/DmitryBaranovgit/Pydoc/blob/main/src/sample/models/calculator_model.py)
+
 [utilities](https://github.com/DmitryBaranovgit/Pydoc/blob/main/src/sample/utilities/logger.py)
+
 [main](https://github.com/DmitryBaranovgit/Pydoc/blob/main/src/sample/main.py)
+
 #### Примеры добавленных docstring-комментариев: В каждом модуле добавлены docstring`и
 с описанием функций, их аргументов и возвращаемых значений.
 
@@ -86,6 +94,7 @@ Pydoc и Javadoc обладают разными особенностями и �
 [Ссылка на статическую документацию сайта для Pydoc](https://dmitrybaranovgit.github.io/Pydoc/)
 
 [Ссылка на статическую документацию сайта для Javadoc/Maven](https://dmitrybaranovgit.github.io/Maven/)
+
 Использованные материалы
 
 [Python Official Documentation](https://docs.python.org/3/)
